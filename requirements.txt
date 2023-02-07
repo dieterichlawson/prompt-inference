@@ -1,0 +1,11 @@
+chex
+equinox
+jax
+jaxlib
+numpy
+openai
+optax
+snax==0.0.22
+tensorflow-probability
+transformers
+wandb
